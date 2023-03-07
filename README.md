@@ -5,4 +5,6 @@ This portfolio has been created with HTML and CSS. It showcases projects that I 
 
 ## Portfolio Screenshot
 <img width="949" alt="project-portfolio-screenshot" src="https://user-images.githubusercontent.com/124656234/223329609-cf5e78a0-c453-414f-8c3b-ee529e965a9c.PNG">
+
 ## Deployed URL
+https://jmichaeldavis.github.io/personal-portfolio/
